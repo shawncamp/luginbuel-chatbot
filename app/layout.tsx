@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AgentKit demo",
-  description: "Demo of ChatKit with hosted workflow",
+  title: "Luginbuel Chatbot",
+  description: "Search the Luginbuel database for obituary and local history",
 };
 
 export default function RootLayout({
